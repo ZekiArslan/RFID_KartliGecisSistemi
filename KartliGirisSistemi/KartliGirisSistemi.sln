@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartliGirisSistemi", "KartliGirisSistemi.csproj", "{3ABCA25E-EF17-42F7-A3A5-37185289866A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABCA25E-EF17-42F7-A3A5-37185289866A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABCA25E-EF17-42F7-A3A5-37185289866A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABCA25E-EF17-42F7-A3A5-37185289866A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABCA25E-EF17-42F7-A3A5-37185289866A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D55553-5ED2-4755-94E6-A1FAE4750A34}
+	EndGlobalSection
+EndGlobal

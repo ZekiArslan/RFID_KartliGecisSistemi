@@ -1,0 +1,20 @@
+C:\Users\zekii\source\repos\KartliGirisSistemi\bin\Debug\KartliGirisSistemi.exe.config
+C:\Users\zekii\source\repos\KartliGirisSistemi\bin\Debug\KartliGirisSistemi.exe
+C:\Users\zekii\source\repos\KartliGirisSistemi\bin\Debug\KartliGirisSistemi.pdb
+C:\Users\zekii\source\repos\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.csprojAssemblyReference.cache
+C:\Users\zekii\source\repos\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.Form1.resources
+C:\Users\zekii\source\repos\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.Properties.Resources.resources
+C:\Users\zekii\source\repos\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.csproj.GenerateResource.cache
+C:\Users\zekii\source\repos\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.csproj.CoreCompileInputs.cache
+C:\Users\zekii\source\repos\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.exe
+C:\Users\zekii\source\repos\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.pdb
+C:\Users\zekii\Desktop\Projeler\Kartlı Geçiş Sistemi Proje\KartliGirisSistemi\bin\Debug\KartliGirisSistemi.exe.config
+C:\Users\zekii\Desktop\Projeler\Kartlı Geçiş Sistemi Proje\KartliGirisSistemi\bin\Debug\KartliGirisSistemi.exe
+C:\Users\zekii\Desktop\Projeler\Kartlı Geçiş Sistemi Proje\KartliGirisSistemi\bin\Debug\KartliGirisSistemi.pdb
+C:\Users\zekii\Desktop\Projeler\Kartlı Geçiş Sistemi Proje\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.csprojAssemblyReference.cache
+C:\Users\zekii\Desktop\Projeler\Kartlı Geçiş Sistemi Proje\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.Form1.resources
+C:\Users\zekii\Desktop\Projeler\Kartlı Geçiş Sistemi Proje\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.Properties.Resources.resources
+C:\Users\zekii\Desktop\Projeler\Kartlı Geçiş Sistemi Proje\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.csproj.GenerateResource.cache
+C:\Users\zekii\Desktop\Projeler\Kartlı Geçiş Sistemi Proje\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.csproj.CoreCompileInputs.cache
+C:\Users\zekii\Desktop\Projeler\Kartlı Geçiş Sistemi Proje\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.exe
+C:\Users\zekii\Desktop\Projeler\Kartlı Geçiş Sistemi Proje\KartliGirisSistemi\obj\Debug\KartliGirisSistemi.pdb
